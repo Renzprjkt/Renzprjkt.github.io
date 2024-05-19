@@ -56,9 +56,3 @@ Girlfriend: Shiina Mashiro ❤️.
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shenprjkt&theme=youtube-dark)](https://git.io/streak-stats)
-
-</div>

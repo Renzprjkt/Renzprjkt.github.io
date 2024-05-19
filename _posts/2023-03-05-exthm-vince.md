@@ -41,7 +41,8 @@ author: 'RenzAlt & Yuyuko1024'
 </ol>
 
 **Thanks To**
-[@Yuyuko1024]
+
+[@Yuyuko1024](https://github.com/Yuyuko1024) for help
 
 **Screenshots**
 
