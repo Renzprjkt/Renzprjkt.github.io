@@ -8,7 +8,7 @@ permalink: /about/
 > neofetch
 ```
 
-<img align="left" src="img/test.png size="210px"/> 
+<img align="left" src="/img/test.png" size="210px"/> 
 
 ```csharp
 Renz@Ameru
