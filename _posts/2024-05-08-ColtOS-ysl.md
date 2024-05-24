@@ -16,7 +16,6 @@ author: 'RenzAlt'
 <ol>
     <li>Initial Build</li>
     <li>September Security Patch (Merge tag 'android-13.0.0_r75')</li>
-</li>
 </ol>
 
 **Prerequisites**
