@@ -53,7 +53,7 @@ author: 'RenzAlt & Yuyuko1024'
 
 **Download**
 
-[Exthm_Vince-13.0-20230305-1517.zip](https://drive.google.com/file/d/1-lvZfze9TwtPFIfLVaWBeG9qem3wsqKo1/view?pli=1)
+[Download](https://drive.google.com/file/d/1-lvZfze9TwtPFIfLVaWBeG9qem3wsqKo1/view?pli=1)
 
 
 

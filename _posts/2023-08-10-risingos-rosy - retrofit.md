@@ -32,7 +32,7 @@ author: 'Kanarimalt'
 
 **Download**
 
-[RisingOS_Rosy-13.0-20230821-1414.zip](https://sourceforge.net/projects/rom-builders/files/rosy/risingOS-v1.3-Dvaraka-RELEASE-202308211414-rosy-VANILLA-COMMUNITY.zip/download)
+[Download](https://sourceforge.net/projects/rom-builders/files/rosy/risingOS-v1.3-Dvaraka-RELEASE-202308211414-rosy-VANILLA-COMMUNITY.zip/download)
 
 
 

@@ -48,7 +48,7 @@ author: 'Kanarimalt'
 
 **Download**
 
-[Miku-UI_Vince-0.13.3-20230305-1546.zip](https://drive.google.com/file/d/1-Mqwct8MBpjcecgUYx3P1CRxvU62pNy18/view)
+[Download](https://drive.google.com/file/d/1-Mqwct8MBpjcecgUYx3P1CRxvU62pNy18/view)
 
 
 

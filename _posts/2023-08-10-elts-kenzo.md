@@ -33,7 +33,7 @@ author: 'Kanarimalt'
 
 **Download**
 
-[Nusantara_eLTS_Kenzo-10-20230401.zip](https://drive.google.com/file/d/1-5pumDqYZix8dQtDxfC4lYBM-Ujg4lLc/view?usp=drive_link)
+[Download](https://drive.google.com/file/d/1-5pumDqYZix8dQtDxfC4lYBM-Ujg4lLc/view?usp=drive_link)
 
 
 

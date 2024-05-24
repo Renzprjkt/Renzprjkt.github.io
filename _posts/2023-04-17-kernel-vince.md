@@ -52,7 +52,7 @@ author: 'Kanarimalt'
 
 **Download**
 
-[Kernel_DECO*27-EAS_VINCE-20230417.zip](https://drive.google.com/file/d/14yxX3saTUpAt207sI57LfAox21rChxzP/view?usp=drive_link)
+[Download](https://drive.google.com/file/d/14yxX3saTUpAt207sI57LfAox21rChxzP/view?usp=drive_link)
 
 
 

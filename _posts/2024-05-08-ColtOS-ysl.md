@@ -47,7 +47,7 @@ author: 'RenzAlt'
 
 **Download**
 
-[Download & Full Changelog](https://t.me/redmiS2indonesia/589191)
+[Download](https://t.me/renzprjkt/961/14036)
 
 
 

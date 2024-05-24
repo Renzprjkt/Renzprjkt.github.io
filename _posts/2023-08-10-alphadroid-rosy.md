@@ -43,7 +43,7 @@ author: 'Kanarimalt'
 
 **Download**
 
-[Alphadroid_Rosy-13.0-20230805.zip](https://sourceforge.net/projects/rom-builders/files/rosy/AlphaDroid-13.0-20230805-rosy-vanilla-v1.7.9.zip/download)
+[Download](https://sourceforge.net/projects/rom-builders/files/rosy/AlphaDroid-13.0-20230805-rosy-vanilla-v1.7.9.zip/download)
 
 
 

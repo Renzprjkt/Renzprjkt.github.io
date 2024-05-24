@@ -48,7 +48,7 @@ author: 'Aquachan20'
 
 **Download**
 
-[RisingOS_Cactus-13.0-20230505-1127.zip](https://t.me/Cactus_Indonesia/1035814)
+[Download](https://t.me/Cactus_Indonesia/1035814)
 
 
 
