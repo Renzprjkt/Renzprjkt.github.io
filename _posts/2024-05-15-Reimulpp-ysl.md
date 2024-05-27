@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Jan] Kernel Reimu-LPP For Redmi S2"
+title: "[May] Kernel Reimu-LPP For Redmi S2"
 date: 2024-05-26 23:15:00 +0700
 categories: custom kernel
 author: 'RenzAlt'
